@@ -49,4 +49,4 @@
 
 ###
 <a align="left" href='https://gloquest.app' target="_blank" a>
-<a align="left" href='https://eeththedev.com' target="_blank" a>
+<a align="left" href='https://eeththedev.com' target="_blank">Gloquest</a>
