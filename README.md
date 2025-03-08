@@ -45,7 +45,8 @@
 
 ###
 
-<h3 align="left">🛠 Projects ive created</h3>
+<h3 align="left">💻 Projects ive created</h3>
 
 ###
-<p align="left"><a href='https://gloquest.app'></a>GloQuest</p>
+<a align="left" href='https://gloquest.app' target="_blank" a>
+<a align="left" href='https://eeththedev.com' target="_blank" a>
