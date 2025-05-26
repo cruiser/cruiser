@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Fancy seeing you here 🤠</h1>
+<h1 align="center">Welcome to my profile 🤠</h1>
 
 ###
 
