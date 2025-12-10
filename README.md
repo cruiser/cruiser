@@ -42,7 +42,3 @@
 
 ###
 
-<h3 align="left">💻 Projects ive created</h3>
-
-###
-<a align="left" href='https://gloquest.app' target="_blank">gloquest</a>
